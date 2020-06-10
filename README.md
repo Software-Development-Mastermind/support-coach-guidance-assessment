@@ -3,7 +3,9 @@
 <p>She is able to add items to the list on the screen but she doesn't know how to get them to show up when the page refreshes.  Here is her question:</p>
 
 ```
-I'm trying to get saved todo items from local storage and display them to the screen when a user refreshes the page. I really don't know where to start.
+I'm trying to get saved todo items from local storage and display them to the screen when a user refreshes the page. 
+
+I really don't know where to start.
   
 Here is the steps to take to reproduce the problem:
   
